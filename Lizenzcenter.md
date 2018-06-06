@@ -24,6 +24,7 @@ The license center of ifrOSS collects licenses for free content and assigns them
  
 This makes it easy to find and characterize the respective license. Since new licenses are continuously created, new versions appear or license texts do no longer appear under their old URL, the participation of all users in the update on this list is highly appreciated. The systematic use of SPDX identifiers is still missing.
 
+
 ## Open Source Licenses
 
 The licenses listed here meet the requirements of the Free Software Definition and Open Source Definition. They are divided into the following categories according to their licensing characteristics:
@@ -31,7 +32,7 @@ The licenses listed here meet the requirements of the Free Software Definition a
 * [Licenses without Copyleft](###Licenses-without-Copyleft)
 * [Licenses with Strong Copyleft](###Licenses-with-Strong-Copyleft)
 * [Licenses with Weak Copyleft](###Licenses-wit-Weak-Copyleft)
-* [Licenses with Choice options](###Licenses-with-Choice-Options)
+* [Licenses with Choice Options](###Licenses-with-Choice-Options)
 * [Licenses with Privileges](###Licenses-with-Privileges)
 
 Software under such licenses may be referred to as Free or Open Source Software. For some of the listed licenses it is controversial or unclear whether these requirements are fulfilled, since the relevant definitions, the free software definition and the open source definition are not identical and license texts are not always clearly written. These licenses are marked with "unclear classification".
@@ -40,7 +41,6 @@ Software under such licenses may be referred to as Free or Open Source Software.
 ### Licenses without Copyleft ("Permissive Licenses")
 
 Licenses without copyleft are characterized by the fact that they grant the licensee all freedoms of an open source license and do not contain any conditions regarding the type of license to be used for modifications of the software. This allows the licensee to redistribute modified versions of the software under any license conditions, i.e. also convert them into proprietary software.
-
 
 1. 4Suite License (v. 1.1): https://web.archive.org/web/20060210220828/http://4suite.org/COPYRIGHT.doc
 1. Academic Free License (AFL) (v. 1.0): https://web.archive.org/web/20020808082753/http://www.rosenlaw.com:80/afl.html
@@ -240,6 +240,7 @@ The licenses listed here contain the different GPL versions and derived license 
 
 Licenses with weak copyleft have a copyleft effect, which does not include all derived works, but contains defined exceptions. 
 
+
 #### MPL-style Licenses
 
 MPL-style licenses have file-based Copyleft, i.e. if modifications of the software are implemented in separate files, these files can also be redistributed under other, e.g. proprietary license terms. The aim is to facilitate the combination of software under different license types.
@@ -285,6 +286,7 @@ MPL-style licenses have file-based Copyleft, i.e. if modifications of the softwa
 1. Zimbra Publice License (v. 1.3): https://web.archive.org/web/20120617001845/http://www.zimbra.com/license/zimbra-public-license-1-3.html
 1. Zimbra Publice License (v. 1.4): https://www.zimbra.com/legal/zimbra-public-license-1-4/
 
+
 #### Other Licenses with Weak Copyleft
 
 1. Adaptive Public License (v.1.0): https://web.archive.org/web/20070722115014/http://www.mamook.net/mediawiki/index.php/Adaptive_Public_License
@@ -308,6 +310,7 @@ MPL-style licenses have file-based Copyleft, i.e. if modifications of the softwa
 1. wxWindows Library License (v. 3.0): https://web.archive.org/web/20001121041000/http://www.wxwindows.org:80/licence3.txt
 1. wxWindows Library License (v. 3.1): https://www.wxwidgets.org/about/licence/
 1. Yahoo! Public License (YPL) (v. 1.1): https://web.archive.org/web/20120617001853/http://www.zimbra.com/license/yahoo_public_license_1.0.html
+
 
 #### Licenses with Choice Options
 
@@ -334,7 +337,7 @@ Some licenses have different legal consequences, depending on how extensive a mo
 1. Vim License: http://web.archive.org/web/20070207020422/https://www.vim.org/htmldoc/uganda.html#license
 
 
-#### Lizenzen with Privileges
+#### Licenses with Privileges
 
 The licenses with privileges grant the licensees all of the rights that make up Free Software, but at the same time provide special privileges for the licensor in the event of modifications by the licensee. These licenses are mostly used with programs that were originally distributed proprietarily.
 
