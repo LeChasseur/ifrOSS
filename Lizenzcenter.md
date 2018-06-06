@@ -3,56 +3,43 @@ layout: default
 title: "Lizenz-Center - ifrOSS.org"
 ---
 
-Dies ist eine offizielle Übernahme des
-[ifrOSS.org/Lizenz-Center](http://www.ifross.org/lizenz-center) zur einfacheren Aktualisierung und kollaborativen Bearbeitung.
+This is an official takeover of the
+[ifrOSS.org/Lizenz-Center](http://www.ifross.org/lizenz-center) for easier updating and collaborative editing.
 
-<h1>Lizenz-Center</h1>
+<h1>License center</h1>
 
 <h2>Inhalt</h2>
 * TOC
 {:toc}
 
-## Kategorien
-Im Lizenzcenter des ifrOSS werden die Lizenzen für freie Inhalte gesammelt und verschiedenen Lizenztypen zugeordnet. Dies betrifft folgende Kategorien:
+## Categories
+The license center of ifrOSS collects licenses for free content and assigns them to different license types. This concerns the following categories:
 
-* [Freie Software und Open Source Lizenzen](##Open-Source-Lizenzen)
-* [Open Content Lizenzen](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenContentLicenses.md)
-* [Open Data Lizenzen](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenDataLicenses.md)
-* [Open Hardware Lizenzen](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenHardwareLicenses.md)
-* [Sonstige Freie Lizenzen](https://github.com/ifrOSS/Lizenzcenter/blob/master/OtherFreeLicenses.md)
-* [Ähnliche Lizenzen, die nicht den Anforderungen der Open Source Definition genügen](https://github.com/ifrOSS/Lizenzcenter/blob/master/NonFreeLicenses.md)
+* [Free Software and Open Source Licenses](##Open-Source-Licenses)
+* [Open Content Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenContentLicenses.md)
+* [Open Data Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenDataLicenses.md)
+* [Open Hardware Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenHardwareLicenses.md)
+* [Other Free Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OtherFreeLicenses.md)
+* [Similar licenses that do not meet the requirements of the Open Source Definition](https://github.com/ifrOSS/Lizenzcenter/blob/master/NonFreeLicenses.md)
  
-Damit wird eine einfache Auffindbarkeit und Charakterisierung
-ermöglicht. Da fortlaufend neue Lizenzen erstellt werden, in
-neuen Versionen erscheinen oder nicht mehr unter ihrer alten URL
-aufrufbar sind, ist die Beteiligung aller bei der Aktualisierung
-dieser Liste willkommen.
+This makes it easy to find and characterize the respective license. Since new licenses are continuously created, new versions appear or license texts do no longer appear under their old URL, the participation of all users in the update on this list is highly appreciated. The systematic use of SPDX identifiers is still missing.
 
-## Open Source Lizenzen
+## Open Source Licenses
 
-Die hier aufgeführten Lizenzen entsprechen den Voraussetzungen der Free Software Definition und Open Source Definition. Sie
-werden nach ihren lizenzrechtlichen Charakteristika in folgende Kategorien unterteilt:
+The licenses listed here meet the requirements of the Free Software Definition and Open Source Definition. They are divided into the following categories according to their licensing characteristics:
 
-* [Lizenzen ohne Copyleft-Effekt](###Lizenzen-ohne-Copyleft-Effekt)
-* [Lizenzen mit strengem Copyleft-Effekt](###Lizenzen-mit-strengem-Copyleft-Effekt)
-* [Lizenzen mit beschränktem Copyleft-Effekt](###Lizenzen-mit-beschränktem-Copyleft-Effekt)
-* [Lizenzen mit Wahlmöglichkeiten](###Lizenzen-mit-Wahlmöglichkeiten)
-* [Lizenzen mit Sonderrechten](Lizenzen-mit-Sonderrechten)
+* [Licenses without Copyleft](###Licenses-without-Copyleft)
+* [Licenses with Strong Copyleft](###Licenses-with-Strong-Copyleft)
+* [Licenses with Weak Copyleft](###Licenses-wit-Weak-Copyleft)
+* [Licenses with Choice options](###Licenses-with-Choice-Options)
+* [Licenses with Privileges](###Licenses-with-Privileges)
 
-Software unter solchen Lizenzen kann als Freie oder Open Source Software bezeichnet werden. Bei einigen der aufgeführten Lizenzen
-ist umstritten oder unklar, ob diese Anforderungen erfüllt sind, da die relevanten Definitionen, die Free Software Definition und die
-Open Source Definition nicht identisch sind und zudem Lizenztexte nicht immer eindeutig formuliert sind. Diese Lizenzen sind mit "Einordnung unklar" gekennzeichnet.
+Software under such licenses may be referred to as Free or Open Source Software. For some of the listed licenses it is controversial or unclear whether these requirements are fulfilled, since the relevant definitions, the free software definition and the open source definition are not identical and license texts are not always clearly written. These licenses are marked with "unclear classification".
 
 
-### Lizenzen ohne Copyleft-Effekt ("Permissive Licenses")
+### Licenses without Copyleft ("Permissive Licenses")
 
-Lizenzen ohne Copyleft-Effekt zeichnen sich dadurch aus, dass sie
-dem Lizenznehmer alle Freiheiten einer Open Source Lizenz
-einräumen und für Veränderungen der Software keine Bedingungen
-hinsichtlich des zu verwendenden Lizenztyps enthalten. Damit kann
-der Lizenznehmer veränderte Versionen der Software unter
-beliebigen Lizenzbedingungen weiterverbreiten, also auch in
-proprietäre Software überführen.
+Licenses without copyleft are characterized by the fact that they grant the licensee all freedoms of an open source license and do not contain any conditions regarding the type of license to be used for modifications of the software. This allows the licensee to redistribute modified versions of the software under any license conditions, i.e. also convert them into proprietary software.
 
 
 1. 4Suite License (v. 1.1): https://web.archive.org/web/20060210220828/http://4suite.org/COPYRIGHT.doc
@@ -173,18 +160,14 @@ proprietäre Software überführen.
 1. Zope Public License (v. 2.1): https://web.archive.org/web/20060426220850/http://www.zope.org:80/Resources/ZPL/
 
 
-### Lizenzen mit strengem Copyleft-Effekt
+### Lizenzen with Strong Copyleft
 
-Bei Lizenzen mit einem strengen Copyleft-Effekt wird der
-Lizenznehmer verpflichtet von der ursprünglichen Software
-abgeleitete Werke ebenfalls nur unter den Bedingungen der
-Ursprungslizenz weiterzuverbreiten. Die hier aufgeführten
-Lizenzen sind deswegen aber nicht schon unbedingt "GPL-kompatibel".
+In the case of licenses with a strict copyleft effect, the licensee is obliged to distribute  works derived from the original software only under the conditions of the original license. However, the licenses listed here are not necessarily "GPL-compatible".
 
 
-#### GPLartige Lizenzen
+#### GPL-style Licenses
 
-Die hier aufgeführten Lizenzen enthalten die verschiedenen GPL-Versionen und davon abgeleitete Lizenztexte. Zudem finden sich hier einige GPL-Varianten mit Ausnahmeregelungen vom strengen Copyleft. Diese Lizenzen mit ausnahmen können auch als beschränktes Copyleft verstanden werden.
+The licenses listed here contain the different GPL versions and derived license texts. There are also some GPL variants with exceptions from the strong copyleft. These licenses with exceptions are then to be understood as weak copyleft, but are listed here for the sake of a better orientation.
 
 1. Affero General Public License (v. 1): http://www.affero.org/oagpl.html
 1. Affero General Public License (v. 2): http://www.affero.org/agpl2.html
@@ -214,7 +197,7 @@ Die hier aufgeführten Lizenzen enthalten die verschiedenen GPL-Versionen und da
 1. Simple Public License (v. 2.0): https://web.archive.org/web/20080906145432/http://www.law.washington.edu/Casrip/License/SimplePublicLicense.html
 
 
-#### Sonstige Lizenzen mit strengem Copyleft-Effekt
+#### Other Licenses with Strong Copyleft
 
 1. Arphic Public License: http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE
 1. CeCILL Free Software License Agreement (v. 1.0): http://www.cecill.info/licences/Licence_CeCILL_V1-US.html
@@ -253,14 +236,13 @@ Die hier aufgeführten Lizenzen enthalten die verschiedenen GPL-Versionen und da
 1. VOSTROM Public License for Open Source: http://pwhois.org/license.who
 
 
-### Lizenzen mit beschränktem Copyleft-Effekt
+### Licenses with Weak Copyleft
 
-Lizenzen mit beschränktem Copyleft-Effekt haben ebenfalls einen
-Copyleft-Effekt, der aber nicht alle Berbeitungen und abgeleiteten Werke umfasst, sondern definierte Ausnahmen enthält. 
+Licenses with weak copyleft have a copyleft effect, which does not include all derived works, but contains defined exceptions. 
 
-#### MPLartige Lizenzen
+#### MPL-style Licenses
 
-Sofern Modifikationen der Software unter MPLartigen Lizenzen in eigenen Dateien realisiert werden, können diese Dateien auch unter anderen, z.B. proprietären Lizenzbedingungen weiterverbreitet werden. Damit soll die Kombination von Software unter verschiedenen Lizenztypen erleichtert werden.
+MPL-style licenses have file-based Copyleft, i.e. if modifications of the software are implemented in separate files, these files can also be redistributed under other, e.g. proprietary license terms. The aim is to facilitate the combination of software under different license types.
 
 1. Common Development and Distribution License (CDDL) (v. 1.0): http://oss.oracle.com/licenses/CDDL
 1. Common Development and Distribution License, Version 1.1 (CDDL v 1.1): https://javaee.github.io/glassfish/LICENSE
@@ -303,7 +285,7 @@ Sofern Modifikationen der Software unter MPLartigen Lizenzen in eigenen Dateien 
 1. Zimbra Publice License (v. 1.3): https://web.archive.org/web/20120617001845/http://www.zimbra.com/license/zimbra-public-license-1-3.html
 1. Zimbra Publice License (v. 1.4): https://www.zimbra.com/legal/zimbra-public-license-1-4/
 
-#### Sonstige Lizenzen mit beschränktem Copyleft-Effekt
+#### Other Licenses with Weak Copyleft
 
 1. Adaptive Public License (v.1.0): https://web.archive.org/web/20070722115014/http://www.mamook.net/mediawiki/index.php/Adaptive_Public_License
 1. Apple Public Source License (v. 2.0): https://web.archive.org/web/20060323040828/https://opensource.apple.com/apsl/2.0.txt
@@ -327,12 +309,9 @@ Sofern Modifikationen der Software unter MPLartigen Lizenzen in eigenen Dateien 
 1. wxWindows Library License (v. 3.1): https://www.wxwidgets.org/about/licence/
 1. Yahoo! Public License (YPL) (v. 1.1): https://web.archive.org/web/20120617001853/http://www.zimbra.com/license/yahoo_public_license_1.0.html
 
-#### Lizenzen mit Wahlmöglichkeiten
+#### Licenses with Choice Options
 
-Diese Lizenzen sehen unterschiedliche rechtliche Folgen vor, je
-nachdem wie umfangreich eine Modifikation ist. Zudem werden dem
-Lizenznehmer verschiedene Wahlmöglichkeiten eingeräumt, wie
-Weiterentwicklungen weiterverbreitet werden können.
+Some licenses have different legal consequences, depending on how extensive a modification is. In addition, the licensee is given various options as to how further developments can be redistributed.
 
 1. ANTLR 2 License: http://www.antlr2.org/license.html
 1. Artistic License (v. 1.0): http://www.perlfoundation.org/artistic_license_1_0 (Einordnung unklar)
@@ -355,14 +334,9 @@ Weiterentwicklungen weiterverbreitet werden können.
 1. Vim License: http://web.archive.org/web/20070207020422/https://www.vim.org/htmldoc/uganda.html#license
 
 
-#### Lizenzen mit Sonderrechten
+#### Lizenzen with Privileges
 
-Die Lizenzen mit Sonderrechten gewähren den Lizenznehmern zwar
-alle diejenigen Rechte, die Freie Software ausmachen, sehen aber
-zugleich besondere Privilegien für den Lizenzgeber bei
-Weiterentwicklungen durch den Lizenznehmer vor. Diese Lizenzen
-werden zumeist bei Programmen verwendet, die ursprünglich
-proprietär vertrieben wurden.
+The licenses with privileges grant the licensees all of the rights that make up Free Software, but at the same time provide special privileges for the licensor in the event of modifications by the licensee. These licenses are mostly used with programs that were originally distributed proprietarily.
 
 1. Apple Public Source License 1.0: https://www.apple.com/publicsource/license.html (Einordnung unklar)
 1. Apple Public Source License 1.1: https://opensource.apple.com/source/IOSerialFamily/IOSerialFamily-7/APPLE_LICENSE (Einordnung unklar)
@@ -377,4 +351,3 @@ proprietär vertrieben wurden.
 1. RealNetworks Community Source License - Research and Development Use (RCSL R&D) (v 2.0): https://web.archive.org/web/20060924224843/https://www.helixcommunity.org/content/rcsl
 1. RealNetworks Community Source License - Research and Development Use (RCSL R&D) (v 3.0): https://web.archive.org/web/20141226113418/https://helixcommunity.org/content/rcsl
 1. RealNetworks Public Source License (RPSL) (v. 1.0): https://community.helixcommunity.org/content/rpsl
-
