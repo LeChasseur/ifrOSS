@@ -15,7 +15,7 @@ This is an official takeover of the
 ## Categories
 The license center of ifrOSS collects licenses for free content and assigns them to different license types. This concerns the following categories:
 
-* [Free Software and Open Source Licenses](##Open-Source-Licenses)
+* [Free and Open Source Licenses](##Open-Source-Licenses)
 * [Open Content Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenContentLicenses.md)
 * [Open Data Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenDataLicenses.md)
 * [Open Hardware Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenHardwareLicenses.md)
@@ -312,7 +312,7 @@ MPL-style licenses have file-based Copyleft, i.e. if modifications of the softwa
 1. Yahoo! Public License (YPL) (v. 1.1): https://web.archive.org/web/20120617001853/http://www.zimbra.com/license/yahoo_public_license_1.0.html
 
 
-#### Licenses with Choice Options
+### Licenses with Choice Options
 
 Some licenses have different legal consequences, depending on how extensive a modification is. In addition, the licensee is given various options as to how further developments can be redistributed.
 
@@ -337,7 +337,7 @@ Some licenses have different legal consequences, depending on how extensive a mo
 1. Vim License: http://web.archive.org/web/20070207020422/https://www.vim.org/htmldoc/uganda.html#license
 
 
-#### Licenses with Privileges
+### Licenses with Privileges
 
 The licenses with privileges grant the licensees all of the rights that make up Free Software, but at the same time provide special privileges for the licensor in the event of modifications by the licensee. These licenses are mostly used with programs that were originally distributed proprietarily.
 
