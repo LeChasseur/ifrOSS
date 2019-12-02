@@ -280,6 +280,8 @@ MPL-style licenses have file-based Copyleft, i.e. if modifications of the softwa
 1. Sun Public License: http://java.sun.com/spl.html
 1. Sun Public License v1.0: http://www.opensource.org/licenses/sunpublic.php
 1. Sybase Open Watcom Public License 1.0: ftp://ftp.openwatcom.org/install/license.txt
+1. Vtiger Public License (v. 1.2): https://github.com/vtigercrm-jp/vtigercrm-6.0.0-ja/blob/master/LICENSE.txt
+1. Vtiger Public License (deutsche Übersetzung): https://www.vtiger.com/de/open-source-crm/vtiger-public-license/
 1. Zend Engine License (v. 2.0): https://web.archive.org/web/20130517195954/http://www.zend.com/license/2_00.txt
 1. Zenplex Public License: http://web.archive.org/web/20041010201945/www.zenplex.org/zpl_txt.html
 1. Zimbra Public License (ZPL) (v. 1.2): https://web.archive.org/web/20080205064641/http://www.zimbra.com/license/zimbra_public_license_1.2.html
