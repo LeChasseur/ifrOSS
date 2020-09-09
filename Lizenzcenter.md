@@ -92,6 +92,7 @@ Licenses without copyleft are characterized by the fact that they grant the lice
 1. Intel Open Source License for CDSA/CSSM Implementation: http://www.opensource.org/licenses/intel-open-source-license.php
 1. ISC License: https://www.isc.org/downloads/software-support-policy/isc-license/
 1. JasPer License Version 2.0: http://www.ece.uvic.ca/~frodo/jasper/LICENSE
+1. JDOM License: https://github.com/hunterhacker/jdom/blob/master/LICENSE.txt
 1. JSON License http://www.json.org/license.html
 1. Libpng License: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
 1. Lua Copyright notice: http://www.lua.org/copyright.html
@@ -106,6 +107,7 @@ Licenses without copyleft are characterized by the fact that they grant the lice
 1. Naumen Public License: http://www.worldlii.org/int/other/PubRL/2009/42.html
 1. NTP License: https://www.eecis.udel.edu/~mills/ntp/html/copyright.html
 1. NUnit License: http://nunit.org/docs/2.4/license.html
+1. OGC Software License, Version 1.0: https://www.ogc.org/ogc/software/1.0
 1. Open Group Test Suite License: http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt
 1. Open Media Group Open Source License: https://web.archive.org/web/20090213173457/http://www.openmediagroup.com/license.html
 1. OpenLDAP Public License (v. 1.1): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=806557a5ad59804ef3a44d5abfbe91d706b0791f
@@ -310,6 +312,7 @@ MPL-style licenses have file-based Copyleft, i.e. if modifications of the softwa
 1. Jabber Open Source License: http://archive.jabber.org/core/JOSL.pdf
 1. Microsoft Reciprocal License (Ms-RL): https://web.archive.org/web/20080105011633/http://www.microsoft.com:80/resources/sharedsource/licensingbasics/reciprocallicense.mspx
 1. Motosoto Open Source License (v. 0.9.1): http://opensource.org/licenses/motosoto.php
+1. Open CASCADE Technology Public License (v. 6.6): https://www.opencascade.com/content/occt-public-license
 1. wxWindows License (v. 1.0): https://web.archive.org/web/20001121033400/http://www.wxwindows.org:80/licence.htm
 1. wxWindows Library License (v. 3.0): https://web.archive.org/web/20001121041000/http://www.wxwindows.org:80/licence3.txt
 1. wxWindows Library License (v. 3.1): https://www.wxwidgets.org/about/licence/
