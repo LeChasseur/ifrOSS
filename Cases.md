@@ -17,7 +17,7 @@ ___
 
 Wiederholungsgefahr nachdem die Bedingungen der GPLv3 wieder eingehalten werden (Ziffer 8 Abs. 3 GPLv3); Abmahnung, strafbewehrte Unterlassungerklärung und einstweilige Verfügung  
 
-Link: http://www.ifross.org/artikel/lg-halle-erneute-lizenz-nach-ziffer-8-abs-3-gplv3-beseitigt-nicht-wiederholungsgefahr, http://www.landesrecht.sachsen-anhalt.de/jportal/portal/t/1mr1/page/bssahprod.psml?doc.hl=1&doc.id=JURE150012453&documentnumber=1&showdoccase=1&doc.part=L
+Link: http://www.ifross.org/artikel/lg-halle-erneute-lizenz-nach-ziffer-8-abs-3-gplv3-beseitigt-nicht-wiederholungsgefahr, https://www.landesrecht.sachsen-anhalt.de/bsst/document/JURE150012453
 
 #### OLG Köln, Urteil v. 31.10.2014, Az. 6 U 60/14
 
