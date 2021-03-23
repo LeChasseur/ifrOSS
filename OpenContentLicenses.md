@@ -1,7 +1,6 @@
-## Open Content Lizenzen
+## Open Content Licenses
 
-Die im Folgenden aufgeführten Lizenzen versuchen, den Grundgedanken, der der Freien Software zu Grunde liegt, auch auf
-andere Werkgattungen zu übertragen. Da keine allgemein anerkannte Open Content Definition besteht, sind die Lizenzen sehr heterogen.
+The licenses listed below seek to apply the basic idea underlying Free Software to transfer to other categories of work. Since there is no generally accepted Open Content Definition, the licenses are very heterogeneous.
 
 1. Apple's Common Documentation License (v. 1.0): https://web.archive.org/web/20060323013933/https://opensource.apple.com/cdl/
 1. Creative Commons Attribution 1.0: http://creativecommons.org/licenses/by/1.0/legalcode
@@ -13,21 +12,22 @@ andere Werkgattungen zu übertragen. Da keine allgemein anerkannte Open Content 
 1. Creative Commons Attribution No Derivatives 2.0: http://creativecommons.org/licenses/by-nd/2.0/legalcode
 1. Creative Commons Attribution No Derivatives 2.5: http://creativecommons.org/licenses/by-nd/2.5/legalcode
 1. Creative Commons Attribution No Derivatives 3.0: http://creativecommons.org/licenses/by-nd/3.0/legalcode
-1. Creative Commons Attribution NoDerivatives 4.0 International: https://creativecommons.org/licenses/by-nd/4.0/legalcode
+1. Creative Commons Attribution No Derivatives 4.0 International: https://creativecommons.org/licenses/by-nd/4.0/legalcode
 1. Creative Commons Attribution Non Commercial 1.0: http://creativecommons.org/licenses/by-nc/1.0/legalcode
 1. Creative Commons Attribution Non Commercial 2.0: http://creativecommons.org/licenses/by-nc/2.0/legalcode
 1. Creative Commons Attribution Non Commercial 2.5: http://creativecommons.org/licenses/by-nc/2.5/legalcode
 1. Creative Commons Attribution Non Commercial 3.0: http://creativecommons.org/licenses/by-nc/3.0/legalcode
+1. Creative Commons Attribution Non Commercial 4.0 International: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 1. Creative Commons Attribution Non Commercial No Derivatives 1.0: http://creativecommons.org/licenses/by-nd-nc/1.0/legalcode
 1. Creative Commons Attribution Non Commercial No Derivatives 2.0: http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode
 1. Creative Commons Attribution Non Commercial No Derivatives 2.5: http://creativecommons.org/licenses/by-nc-nd/2.5/legalcode
 1. Creative Commons Attribution Non Commercial No Derivatives 3.0: http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+1. Creative Commons Attribution Non Commercial NoDerivatives 4.0 International: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 1. Creative Commons Attribution Non Commercial Share Alike 1.0: http://creativecommons.org/licenses/by-nc-sa/1.0/legalcode
 1. Creative Commons Attribution Non Commercial Share Alike 2.0: http://creativecommons.org/licenses/by-nc-sa/2.0/legalcode
 1. Creative Commons Attribution Non Commercial Share Alike 2.5: http://creativecommons.org/licenses/by-nc-sa/2.5/legalcode
 1. Creative Commons Attribution Non Commercial Share Alike 3.0: http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
-1. Creative Commons Attribution NonCommercial NoDerivatives 4.0 International: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-1. Creative Commons Attribution NonCommercial ShareAlike 4.0 International: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+1. Creative Commons Attribution Non Commercial ShareAlike 4.0 International: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 1. Creative Commons Attribution Share Alike 1.0: http://creativecommons.org/licenses/by-sa/1.0/legalcode
 1. Creative Commons Attribution Share Alike 2.0: http://creativecommons.org/licenses/by-sa/2.0/legalcode
 1. Creative Commons Attribution Share Alike 2.5: http://creativecommons.org/licenses/by-sa/2.5/legalcode
