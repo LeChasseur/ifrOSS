@@ -172,8 +172,8 @@ In the case of licenses with a strict copyleft effect, the licensee is obliged t
 
 The licenses listed here contain the different GPL versions and derived license texts. There are also some GPL variants with exceptions from the strong copyleft. These licenses with exceptions are then to be understood as weak copyleft, but are listed here for the sake of a better orientation.
 
-1. Affero General Public License (v. 1): http://www.affero.org/oagpl.html
-1. Affero General Public License (v. 2): http://www.affero.org/agpl2.html
+1. Affero General Public License (v. 1): http://web.archive.org/web/20190826200024/http://www.affero.org/oagpl.html
+1. Affero General Public License (v. 2): http://web.archive.org/web/20191008070005/http://www.affero.org/agpl2.html
 1. Alternate Route Open Source License (v. 1.1): http://www.wsdot.wa.gov/eesc/bridge/alternateroute/arosl.htm
 1. CrossPoint Quelltextlizenz: http://www.crosspoint.de/srclicense.html
 1. eCos License (v. 2.0): http://www.gnu.org/licenses/ecos-license.html
