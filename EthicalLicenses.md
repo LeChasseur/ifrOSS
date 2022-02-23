@@ -14,3 +14,4 @@ Increasingly, there is a desire to achieve ethical goals through licensing. This
 1. Just World License: https://github.com/raisely/NoHarm/blob/667bdd2b0fe1716f0e6daa425cc00ea97e6709f1/LICENSE.md 
 1. ml5.js license: https://github.com/ml5js/Code-of-Conduct/blob/main/LICENSE.md
 1. Non-Violent Public License (NPL): https://git.pixie.town/thufie/NPL
+1. Vaccine License: http://web.archive.org/web/20200826012936/https://vaccinelicense.com/vaccine-license/
