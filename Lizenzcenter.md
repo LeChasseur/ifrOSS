@@ -21,7 +21,7 @@ The license center of ifrOSS collects licenses for free content and assigns them
 * [Open Hardware Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenHardwareLicenses.md)
 * [Other Free Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OtherFreeLicenses.md)
 * [Similar licenses that do not meet the requirements of the Open Source Definition](https://github.com/ifrOSS/Lizenzcenter/blob/master/NonFreeLicenses.md)
-* [Ethical Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/Ethical362977362977Licenses.md)
+* [Ethical Licenses](https://github.com/LeChasseur/ifrOSS/blob/master/EthicalLicenses.md)
  
 This makes it easy to find and characterize the respective license. Since new licenses are continuously created, new versions appear or license texts do no longer appear under their old URL, the participation of all users in the update on this list is highly appreciated. The systematic use of SPDX identifiers is still missing.
 
