@@ -13,6 +13,48 @@ ___
 ___
 ### Urheberrecht und Wettbewerbsrecht
 ___
+#### OLG Karlsruhe, Urteil v. 13.11.2020, Az. 6 U 60/20
+
+Wordpress Theme: viraler Effekt der GPL-2.0 (automatische Erstreckung der Lizenzierung) oder nur Lizenzverletzung und Wegfall der eingeräumten Rechte
+
+Link: https://www.junit.de/2020/wp-content/uploads/OLG-Karlsruhe-27012021.pdf
+
+#### OLG Hamburg, Urteil v. 28.02.2019, Az. 5 U 146/16
+
+Aktivlegitimation von Bearbeiterurhebern einer GPL-lizenzierten Software
+
+Link: https://dejure.org/ext/59ddbf2dfc895af3f8e6b13d9cb65bf8
+
+#### LG Hamburg, Urteil v. 20.11.2017; Az. 308 O 343/15	 
+
+Vertragsstrafe bei GPL-Verletzung, Innenausgleich von Miturhebern, Unterlassungserklärung
+
+Link: https://dejure.org/ext/945f91adbb3ce04fcddbfa5d83994382
+
+#### OLG Hamm, Urteil v. 13.06.2017, Az. 4 U 72/16
+
+Schadensersatz bei Verletzung der GPL
+
+Link: https://www.justiz.nrw.de/nrwe/olgs/hamm/j2017/4_U_72_16_Urteil_20170613.html
+
+#### LG Köln, Urteil v. 20.10.2017, Az. 14 O 188/17 (nicht rechtskräftig, im Berufungsverfahren erledigt)
+
+Unterlassungstenor bei GPL-Verletzung
+
+Link: https://dejure.org/ext/e1e72ac11731720ce18712f02d78b55a
+
+#### LG Hamburg, Urteil v. 08.07.2016, Az. 310 O 89/15
+
+Aktivlegitimation von Bearbeiterurhebern einer GPL-lizenzierten Software
+
+Link: https://dejure.org/ext/e28fb875fdc252254b3ae9b2f33e2fbd
+
+#### LG Bochum, Urteil v., Az. I-8 O 294/15
+
+Schadensersatzpflicht bei GPL-Verletzung
+
+Link: https://www.justiz.nrw.de/nrwe/lgs/bochum/lg_bochum/j2016/I_8_O_294_15_Urteil_20160303.html
+
 #### LG Halle, Urteil v. 27.07.2015, 4 O 133/15
 
 Wiederholungsgefahr nachdem die Bedingungen der GPLv3 wieder eingehalten werden (Ziffer 8 Abs. 3 GPLv3); Abmahnung, strafbewehrte Unterlassungerklärung und einstweilige Verfügung  
@@ -179,6 +221,37 @@ Wallace v. FSF
 
 Link: http://www.internetcases.com/library/cases/2005-11-28_wallace_v_fsf.pdf
 ___
+## Frankreich
+___
+#### TGI de Paris, 2019-06-21
+
+Entr’ouvert v. Orange
+
+Link: https://www.legalis.net/jurisprudences/tgi-de-paris-3eme-ch-3eme-section-jugement-du-21-juin-2019/
+
+#### Cour d’appel de Paris, 2021-03-19
+
+Entr’ouvert v. Orange
+
+Link: https://www.legalis.net/jurisprudences/cour-dappel-de-paris-pole-5-ch-2-arret-du-19-mars-2021/
+
+#### Le Tribunal de première instance de Nivelles, 2010-10-26, Case No. 09-1684-A.
+
+Allard et al v. Festival de Theatre de Spa
+
+Link: http://www.technollama.co.uk/wordpress/wp-content/uploads/2010/11/2010-10-26-D%C3%A9cision-trib.-Nivelles-Lich%C3%B4dmapwa.pdf
+
+#### Cour d'Appel de Paris, 2009-09-16, Case No. 04/24298
+
+AFPA v. EDU 4
+
+Link: http://fsffrance.org/news/arret-ca-paris-16.09.2009.pdf
+
+#### TGI de Paris, 2007-03-28, Case No. 05/16916
+
+S.A. Educaffix v. CNRS
+Link: https://www.doctrine.fr/d/TGI/Paris/2007/KFV64D3F65FB87F53D68B40
+___
 ## Spanien
 ___
 #### Audiencia Provincial de Madrid, Sección 28, 2007-07-05, Case No. 150/2007
@@ -209,23 +282,17 @@ Link: http://www.derecho-internet.org/node/359
 ___
 ## Andere Länder
 ___
+#### Wenshu Court, 2021-03-30, Case No. Yue 03 Min Chu No. 3928
+
+Jining Luohe Network Technology Co., Ltd. v. Fujian Fengling Chuangjing Technology Co., Ltd et al
+
+Link: https://www-oschina-net.translate.goog/news/159435?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=nui
+
 #### District Court of Jerusalem, 2011-01-06, Case No. CA 3560/09, CA 3561/09
 
 Link: http://www.law.co.il/media/computer-law/reuveni_rivlin.pdf
 
 http://beck-online.beck.de/default.aspx?sec=ICAgIGJlY2tjNGI3N2E3YWQ0OGY0ZmIyQSK0ihRiP6UgvZ2C0ObPOhA5xAgy8gB1fPRaOGMy7kpNyxD%2b7GSmif68yDvDr6UNm2Buc3FlPLT5KL5EdJexYzJgbOARFn3gEBvtt3F1IOwKi2TTjggfezvz3pXgVrVk
-
-#### Le Tribunal de première instance de Nivelles, 2010-10-26, Case No. 09-1684-A.
-
-Allard et al v. Festival de Theatre de Spa
-
-Link: http://www.technollama.co.uk/wordpress/wp-content/uploads/2010/11/2010-10-26-D%C3%A9cision-trib.-Nivelles-Lich%C3%B4dmapwa.pdf
-
-#### Cour d'Appel de Paris, 2009-09-16, Case No. 04/24298
-
-AFPA v. EDU 4
-
-Link: http://fsffrance.org/news/arret-ca-paris-16.09.2009.pdf
 
 #### Rechtbank Amsterdam, 2006-03-09, Case No. 334492 / KG 06-176 SR.
 
