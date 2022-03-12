@@ -44,124 +44,125 @@ Software under such licenses may be referred to as Free or Open Source Software.
 Licenses without copyleft are characterized by the fact that they grant the licensee all freedoms of an open source license and do not contain any conditions regarding the type of license to be used for modifications of the software. This allows the licensee to redistribute modified versions of the software under any license conditions, i.e. also convert them into proprietary software.
 
 1. 4Suite License (v. 1.1): https://web.archive.org/web/20060210220828/http://4suite.org/COPYRIGHT.doc
-1. Academic Free License (AFL) (v. 1.0): https://web.archive.org/web/20020808082753/http://www.rosenlaw.com:80/afl.html
-1. Academic Free License (AFL) (v. 1.1): https://web.archive.org/web/20030224125640/http://www.rosenlaw.com:80/afl.html
-1. Academic Free License (AFL) (v. 1.2): https://web.archive.org/web/20030515043719/http://www.rosenlaw.com:80/afl1.2.html
-1. Academic Free License (AFL) (v. 2.0): https://web.archive.org/web/20041212013430/http://rosenlaw.com:80/afl2.0.html
-1. Academic Free License (AFL) (v. 2.1): https://web.archive.org/web/20080413164801/http://rosenlaw.com:80/afl21.htm
-1. Academic Free License (AFL) (v. 3.0): https://web.archive.org/web/20080317004542/http://www.rosenlaw.com/AFL3.0.htm
-1. Apache License (v. 1.0): http://www.apache.org/licenses/LICENSE-1.0
-1. Apache License (v. 1.1): http://www.apache.org/licenses/LICENSE-1.1
-1. Apache License (v. 2.0): http://www.apache.org/licenses/LICENSE-2.0.html
-1. Beerware License: http://people.freebsd.org/~phk/
-1. Boost Software License (Einordnung unklar): http://www.boost.org/LICENSE_1_0.txt
-1. BSD 2-clause "Simplified" or "FreeBSD" License: http://www.freebsd.org/copyright/freebsd-license.html
-1. BSD 3-clause "New" or "Revised" License: https://spdx.org/licenses/BSD-3-Clause
-1. BSD 4-clause "Original" or "Old" License: https://www.freebsd.org/copyright/license.html
-1. CeCILL-B Free Software License Agreement: http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html
-1. Christian Software Public License: http://pudge.net/jesux/cspl.html
-1. CNRI Open Source License Agreement: http://www.handle.net/python_licenses/python1.6_9-5-00.html
-1. Condor Public License (v. 1.1): http://www.cs.wisc.edu/condor/license.html#condor
-1. Contrat de License de Logiciel Libre CeCILL-B: http://www.cecill.info/licences/Licence_CeCILL-B_V1-fr.html
-1. Cougaar Open Source License: https://web.archive.org/web/20100818181228/http://cougaar.org/twiki/bin/view/Main/LicenseText
-1. Cryptix General License: http://www.cryptix.org/LICENSE.TXT
-1. Curl License: https://github.com/curl/curl/blob/master/COPYING
-1. Do What The Fuck You Want To Public License (v. 1.0): https://commons.wikimedia.org/wiki/Template:WTFPL-1
-1. Do What The Fuck You Want To Public License (v. 2.0): http://www.wtfpl.net/txt/copying/ 
-1. Eclipse Distribution License (v 1.0): https://www.eclipse.org/org/documents/edl-v10.php
-1. Educational Community License (v. 1.0): https://web.archive.org/web/20050326095112/http://www.sakaiproject.org:80/license.html
-1. Educational Community License (v. 2.0): https://web.archive.org/web/20100617144451/http://www.osedu.org/licenses/ECL-2.0
-1. Eiffel Forum License (v. 1.0): http://www.eiffel-nice.org/license/forum.txt
-1. Eiffel Forum License (v. 2.0): http://www.eiffel-nice.org/license/eiffel-forum-license-2.html
-1. Entessa Public License (v. 1.0): http://web.archive.org/web/20050419215723/www.openseal.org/epl/
-1. EU DataGrid Software License (v. 2.0): https://web.archive.org/web/20021229214435/http://eu-datagrid.web.cern.ch:80/eu-datagrid/license.html
-1. Fair License: https://web.archive.org/web/20040803105645/http://rhid.com/fair
-1. Free Fuzzy Logic Library Open Source License: http://ffll.sourceforge.net/license.txt
-1. FreeType Project License: http://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT
-1. FSF Unlimited License: https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License
-1. Galen Open Source License (GOSL): http://www.opengalen.org/gosl.html
-1. Globus Toolkit Public License: https://web.archive.org/web/20070626151228/http://tyne.dl.ac.uk/StarterKit/gt2/toolkit/download/license.html
-1. Globus Toolkit Public License (GTPL) (v. 2.0): http://www.globus.org/toolkit/license.html
-1. ICU License: https://web.archive.org/web/20080524220901/http://source.icu-project.org:80/repos/icu/icu/trunk/license.html
-1. ImageMagick Terms and Conditions for Use, Reproduction, and Distribution: http://www.imagemagick.org/script/license.php
-1. Independent JPEG Group License: https://fedoraproject.org/wiki/Licensing:IJG?rd=Licensing/IJG
-1. ISC License: http://mirbsd.org/ISC-Licence
-1. Historical Permission Notice and Disclaimer (HPND): https://web.archive.org/web/20030923051149/http://www.geocities.com/brucedodson.rm/hist_pnd.htm
-1. Horde Apache-like License: http://www.horde.org/licenses/asl.php
-1. Horde BSD-like License: http://www.horde.org/licenses/bsdl.php
-1. Indiana University Extreme! Lab Software License, Version 1.2: http://www.extreme.indiana.edu/license.txt
-1. Intel Open Source License for CDSA/CSSM Implementation: http://www.opensource.org/licenses/intel-open-source-license.php
-1. ISC License: https://www.isc.org/downloads/software-support-policy/isc-license/
-1. JasPer License Version 2.0: http://www.ece.uvic.ca/~frodo/jasper/LICENSE
-1. JDOM License: https://github.com/hunterhacker/jdom/blob/master/LICENSE.txt
-1. JSON License http://www.json.org/license.html
-1. Libpng License: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
-1. Lua Copyright notice: http://www.lua.org/copyright.html
-1. Lucent Public License Version (v. 1): https://web.archive.org/web/20030520193826/http://plan9.bell-labs.com/hidden/lpl4-2-03.html
-1. Lucent Public License Version (v. 1.02): https://web.archive.org/web/20080514131645/http://plan9.bell-labs.com/plan9/license.html
-1. Microsoft Permissive License (Ms-PL): https://web.archive.org/web/20070512223652/http://www.microsoft.com:80/resources/sharedsource/licensingbasics/permissivelicense.mspx (Einordnung unklar)
-1. Microsoft Public License (Ms-PL): https://web.archive.org/web/20080104234143/http://www.microsoft.com:80/resources/sharedsource/licensingbasics/publiclicense.mspx (Einordnung unklar)
-1. MirOS License: http://mirbsd.org/MirOS-Licence
-1. MIT License: https://spdx.org/licenses/MIT.html#licenseText
-1. Mozart License: http://mozart.github.io/license-info/license.html
-1. Mulan Permissive Software License，Version 1 (Mulan PSL v1): http://license.coscl.org.cn/MulanPSL/
-1. Naumen Public License: http://www.worldlii.org/int/other/PubRL/2009/42.html
-1. NTP License: https://www.eecis.udel.edu/~mills/ntp/html/copyright.html
-1. NUnit License: http://nunit.org/docs/2.4/license.html
-1. OGC Software License, Version 1.0: https://www.ogc.org/ogc/software/1.0
-1. Open Group Test Suite License: http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt
-1. Open Media Group Open Source License: https://web.archive.org/web/20090213173457/http://www.openmediagroup.com/license.html
-1. OpenLDAP Public License (v. 1.1): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=806557a5ad59804ef3a44d5abfbe91d706b0791f
-1. OpenLDAP Public License (v. 1.2): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=42b0383c50c299977b5893ee695cf4e486fb0dc7
-1. OpenLDAP Public License (v. 1.3): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=e5f8117f0ce088d0bd7a8e18ddf37eaa40eb09b1
-1. OpenLDAP Public License (v. 1.4): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=c9f95c2f3f2ffb5e0ae55fe7388af75547660941
-1. OpenLDAP Public License (v. 2.0): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=cbf50f4e1185a21abd4c0a54d3f4341fe28f36ea
-1. OpenLDAP Public License (v. 2.0.1): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=b6d68acd14e51ca3aab4428bf26522aa74873f0e
-1. OpenLDAP Public License (v. 2.1): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=b0d176738e96a0d3b9f85cb51e140a86f21be715
-1. OpenLDAP Public License (v. 2.2): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=470b0c18ec67621c85881b2733057fecf4a1acc3
-1. OpenLDAP Public License (v. 2.3): http://www.mibsoftware.com/librock/librock/license/oldap2_3.txt
-1. OpenLDAP Public License (v. 2.4): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=cd1284c4a91a8a380d904eee68d1583f989ed386
-1. OpenLDAP Public License (v. 2.5): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=6852b9d90022e8593c98205413380536b1b5a7cf
-1. OpenLDAP Public License (v. 2.6): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=1cae062821881f41b73012ba816434897abf4205
-1. OpenLDAP Public License (v. 2.7): http://www.openldap.org/doc/admin21/license.html
-1. OpenLDAP Public License (v. 2.8): http://www.openldap.org/software/release/license.html
-1. OpenSSL License (Einordnung unklar): http://www.openssl.org/source/license.html
-1. Pangeia Informatica Copyright (v. 1.2): http://www.chkrootkit.org/COPYRIGHT
-1. Phorum License (v. 2.0): http://phorum.org/license.txt
-1. PHP License (v. 3.0): http://www.php.net/license/3_0.txt
-1. PHP License (v. 3.1): http://www.php.net/license/3_01.txt
-1. PostgreSQL License: https://www.postgresql.org/about/licence/
-1. Privaria Attribution Assurance License: https://web.archive.org/web/20050305170641/http://eepatents.com/privaria/#license
-1. Python 2.0.1 License: https://www.python.org/download/releases/2.0.1/license/
-1. Python 2.4.2 license: http://www.python.org/download/releases/2.4.2/license/
-1. Python Software Foundation License (v. 2): https://www.python.org/download/releases/2.7.7/license/
-1. Ruby License: http://www.ruby-lang.org/en/LICENSE.txt
-1. Sendmail License: http://www.sendmail.org/ftp/LICENSE
-1. skyBuilders Open Source License: http://www.skybuilders.com/OpenSourceLicense.html
-1. SpeechWorks Public License - Software (v. 1.1): http://www.speech.cs.cmu.edu/openvxi/OpenVXI_1_4/License.txt
-1. Standard ML of New Jersey Copyright Notice: http://cm.bell-labs.com/cm/cs/what/smlnj/license.html
-1. Suneido Free Software License: http://suneido.com/wp-content/uploads/delightful-downloads/2014/10/free_license.txt
-1. Tcl/Tk License Terms: http://www.tcl.tk/software/tcltk/license.html
-1. Tea Software License: http://teatrove.sourceforge.net/license.html
-1. The "No problem Bugroff" license: http://tunes.org/legalese/bugroff.html
-1. The SpeechWorks Public License (v. 1.1 ): http://www.speech.cs.cmu.edu/openvxi/OpenVXI_1_4/License.txt
-1. Trusster Open Source License (v. 1.0a): https://github.com/trusster/trusster/blob/master/truss/cpp/src/truss_verification_top.cpp
-1. Udanax Open-Source License: http://udanax.xanadu.com/license.html
-1. Universal Permissive License (v. 1.0): http://www.oracle.com/technetwork/licenses/upl-license-2927578.html
-1. University of Illinois/NCSA Open Source License (NSCA): https://web.archive.org/web/20100814031321/http://otm.illinois.edu/uiuc_openSource
-1. Unlicense: http://unlicense.org/
-1. Vovida Software License v 1.0: https://web.archive.org/web/20050410031206/http://www.vovida.org/document/VOCAL-1.4.0/license.txt
-1. W3C Software and Document Notice and License: http://www.w3.org/Consortium/Legal/copyright-software.html
-1. Wide Open License (WOL): http://www.dspguru.com/wol2.htm
-1. X11 License: http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3
-1. X Window System License: https://web.archive.org/web/20050406051821/%20http://www.x.org/Downloads_terms.html
-1. X.Net License: http://www.xnetinc.com/xiua/copyright.htm
-1. XFree86 Licence: http://www.xfree86.org/legal/licenses.html
-1. xinetd License: https://web.archive.org/web/20080325072754/www.xinetd.org/cgi-bin/cvsweb.cgi/xinetd/COPYRIGHT?rev=1.1.1.1;content-type=text%2Fplain
-1. Zlib license: http://www.gzip.org/zlib/zlib_license.html
-1. Zope Public License (v. 1.1): http://old.zope.org/Resources/License/ZPL-1.1
-1. Zope Public License (v. 2.0): http://old.zope.org/Resources/License/ZPL-2.0
-1. Zope Public License (v. 2.1): https://web.archive.org/web/20060426220850/http://www.zope.org:80/Resources/ZPL/
+3. Academic Free License (AFL) (v. 1.0): https://web.archive.org/web/20020808082753/http://www.rosenlaw.com:80/afl.html
+4. Academic Free License (AFL) (v. 1.1): https://web.archive.org/web/20030224125640/http://www.rosenlaw.com:80/afl.html
+5. Academic Free License (AFL) (v. 1.2): https://web.archive.org/web/20030515043719/http://www.rosenlaw.com:80/afl1.2.html
+6. Academic Free License (AFL) (v. 2.0): https://web.archive.org/web/20041212013430/http://rosenlaw.com:80/afl2.0.html
+7. Academic Free License (AFL) (v. 2.1): https://web.archive.org/web/20080413164801/http://rosenlaw.com:80/afl21.htm
+8. Academic Free License (AFL) (v. 3.0): https://web.archive.org/web/20080317004542/http://www.rosenlaw.com/AFL3.0.htm
+9. Apache License (v. 1.0): http://www.apache.org/licenses/LICENSE-1.0
+10. Apache License (v. 1.1): http://www.apache.org/licenses/LICENSE-1.1
+11. Apache License (v. 2.0): http://www.apache.org/licenses/LICENSE-2.0.html
+12. Beerware License: http://people.freebsd.org/~phk/
+13. Boost Software License (Einordnung unklar): http://www.boost.org/LICENSE_1_0.txt
+14. BSD 2-clause "Simplified" or "FreeBSD" License: http://www.freebsd.org/copyright/freebsd-license.html
+15. BSD 3-clause "New" or "Revised" License: https://spdx.org/licenses/BSD-3-Clause
+16. BSD 4-clause "Original" or "Old" License: https://www.freebsd.org/copyright/license.html
+17. CeCILL-B Free Software License Agreement: http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html
+18. Christian Software Public License: http://pudge.net/jesux/cspl.html
+19. CNRI Open Source License Agreement: http://www.handle.net/python_licenses/python1.6_9-5-00.html
+20. Condor Public License (v. 1.1): http://www.cs.wisc.edu/condor/license.html#condor
+21. Contrat de License de Logiciel Libre CeCILL-B: http://www.cecill.info/licences/Licence_CeCILL-B_V1-fr.html
+22. Cougaar Open Source License: https://web.archive.org/web/20100818181228/http://cougaar.org/twiki/bin/view/Main/LicenseText
+23. Cryptix General License: http://www.cryptix.org/LICENSE.TXT
+24. Curl License: https://github.com/curl/curl/blob/master/COPYING
+25. Do What The Fuck You Want To Public License (v. 1.0): https://commons.wikimedia.org/wiki/Template:WTFPL-1
+26. Do What The Fuck You Want To Public License (v. 2.0): http://www.wtfpl.net/txt/copying/ 
+27. Eclipse Distribution License (v 1.0): https://www.eclipse.org/org/documents/edl-v10.php
+28. Educational Community License (v. 1.0): https://web.archive.org/web/20050326095112/http://www.sakaiproject.org:80/license.html
+29. Educational Community License (v. 2.0): https://web.archive.org/web/20100617144451/http://www.osedu.org/licenses/ECL-2.0
+30. Eiffel Forum License (v. 1.0): http://www.eiffel-nice.org/license/forum.txt
+31. Eiffel Forum License (v. 2.0): http://www.eiffel-nice.org/license/eiffel-forum-license-2.html
+32. Entessa Public License (v. 1.0): http://web.archive.org/web/20050419215723/www.openseal.org/epl/
+33. EU DataGrid Software License (v. 2.0): https://web.archive.org/web/20021229214435/http://eu-datagrid.web.cern.ch:80/eu-datagrid/license.html
+34. Fair License: https://web.archive.org/web/20040803105645/http://rhid.com/fair
+35. Free Fuzzy Logic Library Open Source License: http://ffll.sourceforge.net/license.txt
+36. FreeType Project License: http://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT
+37. FSF Unlimited License: https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License
+38. Galen Open Source License (GOSL): http://www.opengalen.org/gosl.html
+39. Globus Toolkit Public License: https://web.archive.org/web/20070626151228/http://tyne.dl.ac.uk/StarterKit/gt2/toolkit/download/license.html
+40. Globus Toolkit Public License (GTPL) (v. 2.0): http://www.globus.org/toolkit/license.html
+41. ICU License: https://web.archive.org/web/20080524220901/http://source.icu-project.org:80/repos/icu/icu/trunk/license.html
+42. ImageMagick Terms and Conditions for Use, Reproduction, and Distribution: http://www.imagemagick.org/script/license.php
+43. Independent JPEG Group License: https://fedoraproject.org/wiki/Licensing:IJG?rd=Licensing/IJG
+44. ISC License: http://mirbsd.org/ISC-Licence
+45. Historical Permission Notice and Disclaimer (HPND): https://web.archive.org/web/20030923051149/http://www.geocities.com/brucedodson.rm/hist_pnd.htm
+46. Horde Apache-like License: http://www.horde.org/licenses/asl.php
+47. Horde BSD-like License: http://www.horde.org/licenses/bsdl.php
+48. Indiana University Extreme! Lab Software License, Version 1.2: http://www.extreme.indiana.edu/license.txt
+49. Intel Open Source License for CDSA/CSSM Implementation: http://www.opensource.org/licenses/intel-open-source-license.php
+50. ISC License: https://www.isc.org/downloads/software-support-policy/isc-license/
+51. JasPer License Version 2.0: http://www.ece.uvic.ca/~frodo/jasper/LICENSE
+52. JDOM License: https://github.com/hunterhacker/jdom/blob/master/LICENSE.txt
+53. JSON License http://www.json.org/license.html
+54. Libpng License: http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
+55. Lua Copyright notice: http://www.lua.org/copyright.html
+56. Lucent Public License Version (v. 1): https://web.archive.org/web/20030520193826/http://plan9.bell-labs.com/hidden/lpl4-2-03.html
+57. Lucent Public License Version (v. 1.02): https://web.archive.org/web/20080514131645/http://plan9.bell-labs.com/plan9/license.html
+58. Microsoft Permissive License (Ms-PL): https://web.archive.org/web/20070512223652/http://www.microsoft.com:80/resources/sharedsource/licensingbasics/permissivelicense.mspx (Einordnung unklar)
+59. Microsoft Public License (Ms-PL): https://web.archive.org/web/20080104234143/http://www.microsoft.com:80/resources/sharedsource/licensingbasics/publiclicense.mspx (Einordnung unklar)
+60. MirOS License: http://mirbsd.org/MirOS-Licence
+61. MIT License: https://spdx.org/licenses/MIT.html#licenseText
+62. Mozart License: http://mozart.github.io/license-info/license.html
+63. Mulan Permissive Software License，Version 1 (Mulan PSL v1): http://license.coscl.org.cn/MulanPSL/
+64. Mulan Permissive Software License，Version 2 (Mulan PSL v2): http://license.coscl.org.cn/MulanPSL2/
+65. Naumen Public License: http://www.worldlii.org/int/other/PubRL/2009/42.html
+66. NTP License: https://www.eecis.udel.edu/~mills/ntp/html/copyright.html
+67. NUnit License: http://nunit.org/docs/2.4/license.html
+68. OGC Software License, Version 1.0: https://www.ogc.org/ogc/software/1.0
+69. Open Group Test Suite License: http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt
+70. Open Media Group Open Source License: https://web.archive.org/web/20090213173457/http://www.openmediagroup.com/license.html
+71. OpenLDAP Public License (v. 1.1): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=806557a5ad59804ef3a44d5abfbe91d706b0791f
+72. OpenLDAP Public License (v. 1.2): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=42b0383c50c299977b5893ee695cf4e486fb0dc7
+73. OpenLDAP Public License (v. 1.3): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=e5f8117f0ce088d0bd7a8e18ddf37eaa40eb09b1
+74. OpenLDAP Public License (v. 1.4): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=c9f95c2f3f2ffb5e0ae55fe7388af75547660941
+75. OpenLDAP Public License (v. 2.0): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=cbf50f4e1185a21abd4c0a54d3f4341fe28f36ea
+76. OpenLDAP Public License (v. 2.0.1): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=b6d68acd14e51ca3aab4428bf26522aa74873f0e
+77. OpenLDAP Public License (v. 2.1): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=b0d176738e96a0d3b9f85cb51e140a86f21be715
+78. OpenLDAP Public License (v. 2.2): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=470b0c18ec67621c85881b2733057fecf4a1acc3
+79. OpenLDAP Public License (v. 2.3): http://www.mibsoftware.com/librock/librock/license/oldap2_3.txt
+80. OpenLDAP Public License (v. 2.4): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=cd1284c4a91a8a380d904eee68d1583f989ed386
+81. OpenLDAP Public License (v. 2.5): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=6852b9d90022e8593c98205413380536b1b5a7cf
+82. OpenLDAP Public License (v. 2.6): http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=1cae062821881f41b73012ba816434897abf4205
+83. OpenLDAP Public License (v. 2.7): http://www.openldap.org/doc/admin21/license.html
+84. OpenLDAP Public License (v. 2.8): http://www.openldap.org/software/release/license.html
+85. OpenSSL License (Einordnung unklar): http://www.openssl.org/source/license.html
+86. Pangeia Informatica Copyright (v. 1.2): http://www.chkrootkit.org/COPYRIGHT
+87. Phorum License (v. 2.0): http://phorum.org/license.txt
+88. PHP License (v. 3.0): http://www.php.net/license/3_0.txt
+89. PHP License (v. 3.1): http://www.php.net/license/3_01.txt
+90. PostgreSQL License: https://www.postgresql.org/about/licence/
+91. Privaria Attribution Assurance License: https://web.archive.org/web/20050305170641/http://eepatents.com/privaria/#license
+92. Python 2.0.1 License: https://www.python.org/download/releases/2.0.1/license/
+93. Python 2.4.2 license: http://www.python.org/download/releases/2.4.2/license/
+94. Python Software Foundation License (v. 2): https://www.python.org/download/releases/2.7.7/license/
+95. Ruby License: http://www.ruby-lang.org/en/LICENSE.txt
+96. Sendmail License: http://www.sendmail.org/ftp/LICENSE
+97. skyBuilders Open Source License: http://www.skybuilders.com/OpenSourceLicense.html
+98. SpeechWorks Public License - Software (v. 1.1): http://www.speech.cs.cmu.edu/openvxi/OpenVXI_1_4/License.txt
+99. Standard ML of New Jersey Copyright Notice: http://cm.bell-labs.com/cm/cs/what/smlnj/license.html
+100. Suneido Free Software License: http://suneido.com/wp-content/uploads/delightful-downloads/2014/10/free_license.txt
+101. Tcl/Tk License Terms: http://www.tcl.tk/software/tcltk/license.html
+102. Tea Software License: http://teatrove.sourceforge.net/license.html
+103. The "No problem Bugroff" license: http://tunes.org/legalese/bugroff.html
+104. The SpeechWorks Public License (v. 1.1 ): http://www.speech.cs.cmu.edu/openvxi/OpenVXI_1_4/License.txt
+105. Trusster Open Source License (v. 1.0a): https://github.com/trusster/trusster/blob/master/truss/cpp/src/truss_verification_top.cpp
+106. Udanax Open-Source License: http://udanax.xanadu.com/license.html
+107. Universal Permissive License (v. 1.0): http://www.oracle.com/technetwork/licenses/upl-license-2927578.html
+108. University of Illinois/NCSA Open Source License (NSCA): https://web.archive.org/web/20100814031321/http://otm.illinois.edu/uiuc_openSource
+109. Unlicense: http://unlicense.org/
+110. Vovida Software License v 1.0: https://web.archive.org/web/20050410031206/http://www.vovida.org/document/VOCAL-1.4.0/license.txt
+111. W3C Software and Document Notice and License: http://www.w3.org/Consortium/Legal/copyright-software.html
+112. Wide Open License (WOL): http://www.dspguru.com/wol2.htm
+113. X11 License: http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3
+114. X Window System License: https://web.archive.org/web/20050406051821/%20http://www.x.org/Downloads_terms.html
+115. X.Net License: http://www.xnetinc.com/xiua/copyright.htm
+116. XFree86 Licence: http://www.xfree86.org/legal/licenses.html
+117. xinetd License: https://web.archive.org/web/20080325072754/www.xinetd.org/cgi-bin/cvsweb.cgi/xinetd/COPYRIGHT?rev=1.1.1.1;content-type=text%2Fplain
+118. Zlib license: http://www.gzip.org/zlib/zlib_license.html
+119. Zope Public License (v. 1.1): http://old.zope.org/Resources/License/ZPL-1.1
+120. Zope Public License (v. 2.0): http://old.zope.org/Resources/License/ZPL-2.0
+121. Zope Public License (v. 2.1): https://web.archive.org/web/20060426220850/http://www.zope.org:80/Resources/ZPL/
 
 
 ### Lizenzen with Strong Copyleft
