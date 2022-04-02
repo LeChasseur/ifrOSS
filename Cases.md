@@ -154,7 +154,13 @@ ___
 ### Sonstige Rechte
 ___
 
-#### OLG Köln, Urteil v. 30.9.2016 - 6 U 18/16
+#### OLG Köln, Urteil v. 30.9.2016, Az. 6 U 18/16
+
+Open LIMS
+
+Link: http://www.justiz.nrw.de/nrwe/olgs/koeln/j2016/6_U_18_16_Urteil_20160930.html
+
+https://www.ifross.org/artikel/olg-k-ln-rechtserhaltenden-markenbenutzung-bei-open-source-software
 
 #### OLG Düsseldorf, Urteil v. 24.04.2012, Az. 1-20 U 176/11
 
@@ -197,6 +203,7 @@ Link: https://storage.courtlistener.com/recap/gov.uscourts.cand.335295/gov.uscou
 #### US District Court, N.D. California, 2021-05-18, Case No. 5:18-cv-07182-EJD 
 
 Neo4j, Inc. v. PureThink, LLC
+
 partial summary judgment
 
 Bei einer Lizenzierung unter der AGPL-3.0 mit "Commons Clause" darf die "Commons Clause" nicht entfernt und die Software als Open Source Software bezeichnet werden.
@@ -207,6 +214,7 @@ Link: https://storage.courtlistener.com/recap/gov.uscourts.cand.335295/gov.uscou
 #### US District Court, N.D. California, 2020-11-13, Case No. 5:19-cv-06226-EJD
 
 Neo4j, Inc. v. Graph Found., Inc.
+
 order to dismiss
 
 Bei einer Lizenzierung unter der AGPL-3.0 mit "Commons Clause" darf die "Commons Clause" nicht entfernt werden.
@@ -217,6 +225,7 @@ Link: https://storage.courtlistener.com/recap/gov.uscourts.cand.349025/gov.uscou
 #### US District Court, E.D. New York, 2017-02-24, Case No. 16-CV-1462 (DRH)(ARL)
 
 Great Minds v. Fedex Office and Print Services Inc.
+
 dismissal
 
 Kopien durch kommerziellen Anbieter im Auftrag des nicht-kommerziell handelnden Lizenznehmers als nicht-kommerzielle Nutzung i.S.v. Creative Commons 4.0-BY-NC-SA international
@@ -226,6 +235,7 @@ Link: https://creativecommons.org/2017/02/24/update-great-minds-v-fedex-office-l
 #### US District Court, N.D. California, 2014-05-16, Case No. 5:13-cv-05161-PSG
 
 XimpleWare v. Versata et al
+
 partial dismissal
 
 Link: http://www.ifross.org/artikel/ximpleware-v-versata-et-al-gplv2-bezogene-patentrechtliche-fragen, http://ia601009.us.archive.org/15/items/gov.uscourts.cand.271648/gov.uscourts.cand.271648.85.0.pdf, https://ia601009.us.archive.org/15/items/gov.uscourts.cand.271648/gov.uscourts.cand.271648.docket.html
@@ -236,7 +246,7 @@ Versata v. Ameriprise
 
 Link: http://www.ifross.org/node/1542, http://scribd.com/doc/212507936/Versata-Software-v-Ameriprise, https://ia902501.us.archive.org/22/items/gov.uscourts.txwd.680419/gov.uscourts.txwd.680419.docket.html
 
-N.D.Tex. 2009-01-16, Case No. 3:2007cv01767
+#### N.D.Tex. 2009-01-16, Case No. 3:2007cv01767
 
 Chang et al v. Virgin Mobile USA LLC et al
 
@@ -248,7 +258,7 @@ Jacobsen v. Katzer
 
 Link: http://www.cafc.uscourts.gov/opinions/08-1001.pdf
 
-US Court of Appeals for the Seventh Circuit, 2006-11-09, Case No. 06-2454.
+#### US Court of Appeals for the Seventh Circuit, 2006-11-09, Case No. 06-2454.
 
 Wallace v. IBM
 
