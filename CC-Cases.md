@@ -13,15 +13,35 @@ ___
 ___
 
 
-### County Court Aschaffenburg, Urteil v. 23.07.2020, file no. 34 C 2436/19
+### Higher Regional Court of München, judgment dated 20.05.2021, file no. 6 U 4750/20
+
+No compliance with license terms of CC-BY-SA-3.0 on Twitter and Facebook by linking, necessity of own fulfillment of license obligations in social media contributions
+
+Link: https://www.ifross.org/Fremdartikel/OLG_Muenchen_Urteil_6_U_4750_20.pdf
+
+
+### Distict Court Hamburg, judgment dated 10.12.2020, file no.310 O 62/20
+
+Contractual penalty for violation of CC-BY-SA 2.0
+
+Link: https://www.landesrecht-hamburg.de/bsha/document/JURE210002255
+
+
+### County Court Hamburg, judgment dated 06.10.2020, file no. 18b C 500/19
+
+Invalid warning notice in case of infringement of CC-BY-SA 2.0, necessity to engage a lawyer
+
+Link: https://www.landesrecht-hamburg.de/bsha/document/KORE550402021
+
+
+### County Court Aschaffenburg, judgment dated 23.07.2020, file no. 34 C 2436/19
 
 Negative declaratory action in case of cease-and-desist letter due to CC-BY-SA 3.0 DE, "Cityscape Berlin"
 
 Link: https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2020-N-25945?AspxAutoDetectCookieSupport=1
 
 
-
-### Higher Regional Court of Frankfurt, Urteil v. 22.10.2019, file no. 11 U 95/18
+### Higher Regional Court of Frankfurt, judgment dated 22.10.2019, file no. 11 U 95/18
 
 Confirmation of judgment of LG Frankfurt dated 16.08.2018, Ref. 2-03 O 32/17
 
@@ -42,7 +62,7 @@ No compensation for damages in case of infringement of CC-BY-SA 2.0
 Link: www.ifross.org/Fremdartikel/AG_Hamburg_Urteil_32C83-19.pdf
 
 
-### County Court Würzburg, judgment v. 18.12.2018, file no. 18 C 611/18
+### County Court Würzburg, judgment dated 18.12.2018, file no. 18 C 611/18
 
 Abusive enforcement of CC licenses
 
