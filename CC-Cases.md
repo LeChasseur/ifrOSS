@@ -13,14 +13,14 @@ ___
 ___
 
 
-### Higher Regional Court of München, judgment dated 20.05.2021, file no. 6 U 4750/20
+### Higher Regional Court of Munich, judgment dated 20.05.2021, file no. 6 U 4750/20
 
 No compliance with license terms of CC-BY-SA-3.0 on Twitter and Facebook by linking, necessity of own fulfillment of license obligations in social media contributions
 
 Link: https://www.ifross.org/Fremdartikel/OLG_Muenchen_Urteil_6_U_4750_20.pdf
 
 
-### Distict Court Hamburg, judgment dated 10.12.2020, file no.310 O 62/20
+### Distict Court of Hamburg, judgment dated 10.12.2020, file no.310 O 62/20
 
 Contractual penalty for violation of CC-BY-SA 2.0
 
