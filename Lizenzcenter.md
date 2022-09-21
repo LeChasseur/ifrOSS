@@ -151,18 +151,19 @@ Licenses without copyleft are characterized by the fact that they grant the lice
 107. Universal Permissive License (v. 1.0): http://www.oracle.com/technetwork/licenses/upl-license-2927578.html
 108. University of Illinois/NCSA Open Source License (NSCA): https://web.archive.org/web/20100814031321/http://otm.illinois.edu/uiuc_openSource
 109. Unlicense: http://unlicense.org/
-110. Vovida Software License v 1.0: https://web.archive.org/web/20050410031206/http://www.vovida.org/document/VOCAL-1.4.0/license.txt
-111. W3C Software and Document Notice and License: http://www.w3.org/Consortium/Legal/copyright-software.html
-112. Wide Open License (WOL): http://www.dspguru.com/wol2.htm
-113. X11 License: http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3
-114. X Window System License: https://web.archive.org/web/20050406051821/%20http://www.x.org/Downloads_terms.html
-115. X.Net License: http://www.xnetinc.com/xiua/copyright.htm
-116. XFree86 Licence: http://www.xfree86.org/legal/licenses.html
-117. xinetd License: https://web.archive.org/web/20080325072754/www.xinetd.org/cgi-bin/cvsweb.cgi/xinetd/COPYRIGHT?rev=1.1.1.1;content-type=text%2Fplain
-118. Zlib license: http://www.gzip.org/zlib/zlib_license.html
-119. Zope Public License (v. 1.1): http://old.zope.org/Resources/License/ZPL-1.1
-120. Zope Public License (v. 2.0): http://old.zope.org/Resources/License/ZPL-2.0
-121. Zope Public License (v. 2.1): https://web.archive.org/web/20060426220850/http://www.zope.org:80/Resources/ZPL/
+110. vbAccelerator Software License (v. 1.0): http://www.vbaccelerator.com/home/The_Site/Usage_Policy/article.html
+111. Vovida Software License v 1.0: https://web.archive.org/web/20050410031206/http://www.vovida.org/document/VOCAL-1.4.0/license.txt
+112. W3C Software and Document Notice and License: http://www.w3.org/Consortium/Legal/copyright-software.html
+113. Wide Open License (WOL): http://www.dspguru.com/wol2.htm
+114. X11 License: http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3
+115. X Window System License: https://web.archive.org/web/20050406051821/%20http://www.x.org/Downloads_terms.html
+116. X.Net License: http://www.xnetinc.com/xiua/copyright.htm
+117. XFree86 Licence: http://www.xfree86.org/legal/licenses.html
+118. xinetd License: https://web.archive.org/web/20080325072754/www.xinetd.org/cgi-bin/cvsweb.cgi/xinetd/COPYRIGHT?rev=1.1.1.1;content-type=text%2Fplain
+119. Zlib license: http://www.gzip.org/zlib/zlib_license.html
+120. Zope Public License (v. 1.1): http://old.zope.org/Resources/License/ZPL-1.1
+121. Zope Public License (v. 2.0): http://old.zope.org/Resources/License/ZPL-2.0
+122. Zope Public License (v. 2.1): https://web.archive.org/web/20060426220850/http://www.zope.org:80/Resources/ZPL/
 
 
 ### Lizenzen with Strong Copyleft
