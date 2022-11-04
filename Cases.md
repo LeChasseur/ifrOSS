@@ -97,7 +97,7 @@ Link: http://www.ifross.org/sites/default/files/130618%20Urteil%20Fantec.pdf
 
 AVM ./. Cybits (Hauptsache)
 
-Link: http://www.ifross.org/sites/default/files/LG%Berlin%AVM%v%Cybits_0.pdf
+Link: http://www.ifross.org/sites/default/files/LG_Berlin_AVM_v_Cybits_0.pdf
 
 #### LG Bochum, Teilurteil v. 10.02.2011, Az. I-8 O 293/09
 
@@ -115,11 +115,11 @@ Link: http://openjur.de/u/69386.html
 
 Creative Commons-Lizenz „Attribution – ShareAlike 3.0 Unported“
 
-Link: http://www.ifross.org/Fremdartikel/LG%Berlin%CC-Lizenz.pdf
+Link: http://www.ifross.org/Fremdartikel/LG_Berlin_CC-Lizenz.pdf
 
 (English Translation, thanks to John Hendrik Weitzmann:
 
-http://www.ifross.org/Fremdartikel/District%20Court%20Berlin%20CC%20License.txt)
+http://www.ifross.org/Fremdartikel/District_Court_Berlin_CC_License.txt)
 
 #### LG München I, Urteil v. 12.07.2007, Az. 7 O 5245/07
 
@@ -139,7 +139,7 @@ English translation: http://www.ifross.org/Fremdartikel/judgment_dc_frankfurt_gp
 
 WLAN-Router
 
-Link: http://www.ifross.de/Fremdartikel/LG%Berlin%GPL-Entscheidung21.2.06-1.pdf
+Link: http://www.ifross.de/Fremdartikel/LG_Berlin_GPL-Entscheidung21.2.06-1.pdf
 
 #### LG München I, Urteil v. 19.05.2004, Az. 21 O 6123/04
 
