@@ -145,9 +145,9 @@ Link: http://www.ifross.de/Fremdartikel/LG%20Berlin%20GPL-Entscheidung21.2.06.pd
 
 Welte ./. Sitecom Deutschland GmbH
 
-Link: http://www.jbb.de/fileadmin/download/urteil_lg_muenchen_gpl.pdf
+Link: http://www.ifross.org/sites/default/files/urteil_lg_muenchen_gpl.pdf
 
-English translation: http://www.jbb.de/fileadmin/download/judgment_dc_munich_gpl.pdf
+English translation: http://www.ifross.org/sites/default/files/judgment_dc_munich_gpl.pdf
 
 ___
 
