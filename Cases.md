@@ -97,7 +97,7 @@ Link: http://www.ifross.org/sites/default/files/130618%20Urteil%20Fantec.pdf
 
 AVM ./. Cybits (Hauptsache)
 
-Link: http://www.ifross.org/sites/default/files/LG_Berlin_AVM_v_Cybits_0.pdf
+Link: http://www.ifross.org/Fremdartikel/LG_Berlin_AVM_v_Cybits_0.pdf
 
 #### LG Bochum, Teilurteil v. 10.02.2011, Az. I-8 O 293/09
 
