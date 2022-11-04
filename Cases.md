@@ -131,7 +131,7 @@ Link: http://www.ifross.de/Fremdartikel/LGMuenchenUrteil.pdf
 
 Welte ./. D-Link Deutschland GmbH
 
-Link: http://www.ifross.org/sites/Fremdartikel/urteil_lg_frankfurt_gpl.pdf
+Link: https://www.ifross.org/Fremdartikel/urteil_lg_frankfurt_gpl.pdf
 
 English translation: http://www.ifross.org/Fremdartikel/judgment_dc_frankfurt_gpl.pdf
 
