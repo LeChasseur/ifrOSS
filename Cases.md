@@ -139,7 +139,7 @@ English translation: http://www.ifross.org/Fremdartikel/judgment_dc_frankfurt_gp
 
 WLAN-Router
 
-Link: http://www.ifross.de/Fremdartikel/LG%20Berlin%20GPL-Entscheidung21.2.06.pdf
+Link: http://www.ifross.de/Fremdartikel/LG%Berlin%GPL-Entscheidung21.2.06-1.pdf
 
 #### LG München I, Urteil v. 19.05.2004, Az. 21 O 6123/04
 
