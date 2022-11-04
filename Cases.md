@@ -125,7 +125,7 @@ http://www.ifross.org/Fremdartikel/District_Court_Berlin_CC_License.txt)
 
 Welte ./. Skype Technologies S.A.
 
-Link: http://www.ifross.de/Fremdartikel/LGMuenchenUrteil.pdf
+Link: http://www.ifross.org/Fremdartikel/LGMuenchenUrteil.pdf
 
 #### LG Frankfurt a.M., Urteil v. 06.09.2006, Az. 2-6 O 224/06
 
