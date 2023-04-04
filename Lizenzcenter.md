@@ -15,7 +15,7 @@ This is an official takeover of the
 ## Categories
 The license center of ifrOSS collects licenses for free content and assigns them to different license types. This concerns the following categories:
 
-* [Free and Open Source Licenses](##Open-Source-Licenses)
+* [Free and Open Source Licenses](#Open-Source-Licenses)
 * [Open Content Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenContentLicenses.md)
 * [Open Data Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenDataLicenses.md)
 * [Open Hardware Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OpenHardwareLicenses.md)
@@ -30,11 +30,11 @@ This makes it easy to find and characterize the respective license. Since new li
 
 The licenses listed here meet the requirements of the Free Software Definition and Open Source Definition. They are divided into the following categories according to their licensing characteristics:
 
-* [Licenses without Copyleft](###Licenses-without-Copyleft)
-* [Licenses with Strong Copyleft](###Licenses-with-Strong-Copyleft)
-* [Licenses with Weak Copyleft](###Licenses-wit-Weak-Copyleft)
-* [Licenses with Choice Options](###Licenses-with-Choice-Options)
-* [Licenses with Privileges](###Licenses-with-Privileges)
+* [Licenses without Copyleft](#Licenses-without-Copyleft)
+* [Licenses with Strong Copyleft](#Licenses-with-Strong-Copyleft)
+* [Licenses with Weak Copyleft](#Licenses-wit-Weak-Copyleft)
+* [Licenses with Choice Options](#Licenses-with-Choice-Options)
+* [Licenses with Privileges](#Licenses-with-Privileges)
 
 Software under such licenses may be referred to as Free or Open Source Software. For some of the listed licenses it is controversial or unclear whether these requirements are fulfilled, since the relevant definitions, the free software definition and the open source definition are not identical and license texts are not always clearly written. These licenses are marked with "unclear classification".
 
@@ -345,9 +345,10 @@ Some licenses have different legal consequences, depending on how extensive a mo
 1. SFL License Agreement: https://web.archive.org/web/20160416132210/http://legacy.imatix.com/html/sfl/sfl4.htm
 1. SGI Free Software License B (v. 1.0): https://web.archive.org/web/20130114073135/http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.1.0.html (Einordnung unklar)
 1. SGI Free Software License B (v. 1.1): https://web.archive.org/web/20170414231252/http://oss.sgi.com:80/projects/FreeB/SGIFreeSWLicB.1.1.doc (Einordnung unklar)
-1. Sleepycat License: https://fedoraproject.org/wiki/Licensing/Sleepycat
-1. Sleepycat Software Product License: http://genome.jouy.inra.fr/doc/docs/sleepycat/license.html
-1. Vim License: http://web.archive.org/web/20070207020422/https://www.vim.org/htmldoc/uganda.html#license
+2. Short code license: https://www.cl.cam.ac.uk/~mgk25/short-license.html
+3. Sleepycat License: https://fedoraproject.org/wiki/Licensing/Sleepycat
+4. Sleepycat Software Product License: http://genome.jouy.inra.fr/doc/docs/sleepycat/license.html
+5. Vim License: http://web.archive.org/web/20070207020422/https://www.vim.org/htmldoc/uganda.html#license
 
 
 ### Licenses with Privileges
