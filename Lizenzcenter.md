@@ -30,16 +30,16 @@ This makes it easy to find and characterize the respective license. Since new li
 
 The licenses listed here meet the requirements of the Free Software Definition and Open Source Definition. They are divided into the following categories according to their licensing characteristics:
 
-* [Licenses without Copyleft](#Licenses-without-Copyleft)
+* [Licenses without Copyleft](#Licenses-without-Copyleft-"Permissive-Licenses")
 * [Licenses with Strong Copyleft](#Licenses-with-Strong-Copyleft)
-* [Licenses with Weak Copyleft](#Licenses-wit-Weak-Copyleft)
+* [Licenses with Weak Copyleft](#Licenses-with-Weak-Copyleft)
 * [Licenses with Choice Options](#Licenses-with-Choice-Options)
 * [Licenses with Privileges](#Licenses-with-Privileges)
 
 Software under such licenses may be referred to as Free or Open Source Software. For some of the listed licenses it is controversial or unclear whether these requirements are fulfilled, since the relevant definitions, the free software definition and the open source definition are not identical and license texts are not always clearly written. These licenses are marked with "unclear classification".
 
 
-### Licenses without Copyleft ("Permissive Licenses")
+### Licenses without Copyleft - "Permissive Licenses"
 
 Licenses without copyleft are characterized by the fact that they grant the licensee all freedoms of an open source license and do not contain any conditions regarding the type of license to be used for modifications of the software. This allows the licensee to redistribute modified versions of the software under any license conditions, i.e. also convert them into proprietary software.
 
@@ -166,7 +166,7 @@ Licenses without copyleft are characterized by the fact that they grant the lice
 122. Zope Public License (v. 2.1): https://web.archive.org/web/20060426220850/http://www.zope.org:80/Resources/ZPL/
 
 
-### Lizenzen with Strong Copyleft
+### Licenses with Strong Copyleft
 
 In the case of licenses with a strict copyleft effect, the licensee is obliged to distribute  works derived from the original software only under the conditions of the original license. However, the licenses listed here are not necessarily "GPL-compatible".
 
