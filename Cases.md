@@ -232,6 +232,18 @@ Kopien durch kommerziellen Anbieter im Auftrag des nicht-kommerziell handelnden 
 
 Link: https://creativecommons.org/2017/02/24/update-great-minds-v-fedex-office-litigation-involving-nc-sa/, https://drive.google.com/file/d/0B0HBOY8b2doEdmpkMU4ya2dKM28/view
 
+
+#### US District Court, N.D. California, San Francisco Division, Case No. 17-cv-04002-LB
+
+Open Source Security, Inc. & BRADLEY SPENGLER v. Bruce Perens
+
+dismissal
+
+Abweisung Verleumdungsklage wegen Diskussion über Auslegung der GPL (Reichweite des "further restrictions" Verbotes) in einem Blog
+
+Link: https://www.leagle.com/decision/infdco20171222c91
+
+
 #### US District Court, N.D. California, 2014-05-16, Case No. 5:13-cv-05161-PSG
 
 XimpleWare v. Versata et al
