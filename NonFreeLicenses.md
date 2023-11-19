@@ -13,6 +13,9 @@ The licenses listed here originate from the Free Software sphere or give themsel
 1. CrossPoint Quelltext Lizenz (alt): http://www.crosspoint.de/oldlicense.html
 1. Elastic License 2.0 (ELv2): https://www.elastic.co/de/licensing/elastic-license
 1. Enhydra Public License (v. 1.1): http://ksoap.objectweb.org/software/license/index.html (Einordnung umstritten)
+1. FSF (Feminist Software Foundation) Public License: https://gitlab.com/femsf/c-plus-equality/-/blob/master/LICENSE.FemSFPL
+1. Functional Source License (v. 1.0), MIT Change License: https://github.com/getsentry/fsl.software/blob/main/FSL-1.0-MIT.template.md
+1. Functional Source License (v. 1.0), Apache 2.0 Change License: https://github.com/getsentry/fsl.software/blob/main/FSL-1.0-Apache-2.0.template.md
 1. Hacktivismo Enhanced-Source Software License Agreement (v. 0.1) (HESSLA): http://www.hacktivismo.com/about/hessla.php
 1. Jahia Community Source License (JSCL) (v.012): http://www.jahia.org/jahia/Jahia/pid/145
 1. JasPer Software License (1.0): http://stuff.mit.edu/afs/sipb/user/kenta/jasper-SunOS/jasper-1.700.2/LICENSE
