@@ -12,10 +12,16 @@ ___
 ## Germany
 ___
 
+### County Court Frankfurt, judgment dated 05.01.2022, file no. 30 C 4113/20 (47)
+
+No compensation for damages in case of violation of CC license or GNU FDL. No reimbursement of legal costs if licenses are not correctly named in the warning letter.
+
+Link: [https://www.ifross.org/Fremdartikel/OLG_Muenchen_Urteil_6_U_4750_20.pdf](https://www.rv.hessenrecht.hessen.de/bshe/document/LARE220002983/part/L)
+
 
 ### Higher Regional Court of Munich, judgment dated 20.05.2021, file no. 6 U 4750/20
 
-No compliance with license terms of CC-BY-SA-3.0 on Twitter and Facebook by linking, necessity of own fulfillment of license obligations in social media contributions
+No compliance with license terms of CC-BY-SA-3.0 on Twitter and Facebook by linking, the necessity of own fulfillment of license obligations in social media contributions
 
 Link: https://www.ifross.org/Fremdartikel/OLG_Muenchen_Urteil_6_U_4750_20.pdf
 
