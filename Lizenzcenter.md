@@ -22,7 +22,7 @@ The license center of ifrOSS collects licenses for free content and assigns them
 * [Other Free Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/OtherFreeLicenses.md)
 * [Similar licenses that do not meet the requirements of the Open Source Definition](https://github.com/ifrOSS/Lizenzcenter/blob/master/NonFreeLicenses.md)
 * [Ethical Licenses](https://github.com/LeChasseur/ifrOSS/blob/master/EthicalLicenses.md)
-* [Open AI Licenses](https://github.com/ifrOSS/Lizenzcenter/blob/master/Open-AI-Licenses.md)
+* [Open AI Licenses](https://github.com/LeChasseur/ifrOSS/blob/master/Open-AI-Licenses.md)
  
 This makes it easy to find and characterize the respective license. Since new licenses are continuously created, new versions appear or license texts do no longer appear under their old URL, the participation of all users in the update on this list is highly appreciated. The systematic use of SPDX identifiers is still missing.
 
