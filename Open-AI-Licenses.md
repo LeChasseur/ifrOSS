@@ -12,6 +12,7 @@ An overview of the RAIL licensing system can be found at https://www.licenses.ai
 1. CreativeML Open RAIL-M: https://huggingface.co/spaces/CompVis/stable-diffusion-license
 1. GEMMA Terms of Use (Version release: February 21, 2024): https://ai.google.dev/gemma/terms 
 1. Llma 2 Community License Agreement (Version Release Date: July 18, 2023): https://github.com/facebookresearch/llama/blob/v2/LICENSE
+2. POST-OPEN ZERO-COST LICENSE 0.06: https://perens.com/static/DEVELOPMENT_LICENSE.txt?v=2004_04_01
 1. Responsible Artificial Intelligence Source Code License (v 1.0) (OpenRAIL-S): https://www.licenses.ai/source-code-license-v1 
 1. Responsible Artificial Intelligence Source Code License (v 1.1) (OpenRAIL-S): https://www.licenses.ai/source-code-license
 1. SIL RAIL-M RAIL License (v1.0): https://huggingface.co/spaces/sil-ai/model-license
