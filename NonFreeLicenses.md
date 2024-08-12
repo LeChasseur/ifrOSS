@@ -25,6 +25,7 @@ The licenses listed here originate from the Free Software sphere or give themsel
 1. Microsoft Limited Community License (Ms-LCL): https://web.archive.org/web/20070427113623/http://www.microsoft.com:80/resources/sharedsource/licensingbasics/limitedcommunitylicense.mspx
 1. Microsoft Reference License (Ms-RefL): https://web.archive.org/web/20080429223250/http://www.microsoft.com:80/resources/sharedsource/licensingbasics/referencelicense.mspx
 1. Microsoft Limited Reciprocal License (Ms-LRL): https://web.archive.org/web/20080406030222/http://www.microsoft.com:80/resources/sharedsource/licensingbasics/limitedreciprocallicense.mspx
+1. MMT License: https://github.com/UniFormal/MMT/blob/master/COPYING.txt
 1. Nagios Open Software License (v. 1.3): https://github.com/NagiosEnterprises/ncpa/blob/master/LICENSE.rst
 1. Nmap Public Source License Version (v. 0.92): https://svn.nmap.org/nmap/LICENSE
 1. Open Public License: http://wyatterp.com/opl.html (Einordnung umstritten)
