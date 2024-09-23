@@ -296,6 +296,7 @@ Link: [https://www.courdecassation.fr/decision/65cdbcdf2425a70008258563](https:/
 Entr’ouvert v. Orange
 
 Link: [https://www.courdecassation.fr/toutes-les-actualites/2022/10/05/clarification-admissibility-software-copyright-infringement-action](https://www.courdecassation.fr/toutes-les-actualites/2022/10/05/clarification-admissibility-software-copyright-infringement-action)
+https://www.courdecassation.fr/toutes-les-actualites/2022/10/05/clarification-admissibility-software-copyright-infringement-action (English translation)
 
 #### TGI de Paris, 2019-06-21
 
@@ -319,6 +320,22 @@ Link: http://fsffrance.org/news/arret-ca-paris-16.09.2009.pdf
 
 S.A. Educaffix v. CNRS
 Link: https://www.doctrine.fr/d/TGI/Paris/2007/KFV64D3F65FB87F53D68B40
+
+___
+## China
+___
+
+#### Supreme People's Court of the People's Republic of China, 2023-10-312, Case No. (2021) No. 51
+
+Wangjing vs. Yibang, et al
+
+Link: https://www.ifross.org/sites/default/files/CN_to_EN-Wangjing_vs_Yibang_Judgment%20_2023.pdf (Englische Übersetzung)
+
+#### Wenshu Court, 2021-03-30, Case No. Yue 03 Min Chu No. 3928
+
+Jining Luohe Network Technology Co., Ltd. v. Fujian Fengling Chuangjing Technology Co., Ltd et al
+
+Link: https://www-oschina-net.translate.goog/news/159435?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=nui
 ___
 ## Spanien
 ___
@@ -350,11 +367,6 @@ Link: http://www.derecho-internet.org/node/359
 ___
 ## Andere Länder
 ___
-#### Wenshu Court, 2021-03-30, Case No. Yue 03 Min Chu No. 3928
-
-Jining Luohe Network Technology Co., Ltd. v. Fujian Fengling Chuangjing Technology Co., Ltd et al
-
-Link: https://www-oschina-net.translate.goog/news/159435?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=nui
 
 #### District Court of Jerusalem, 2011-01-06, Case No. CA 3560/09, CA 3561/09
 
